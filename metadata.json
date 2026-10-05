@@ -1,0 +1,6 @@
+{
+  "name": "DeliveryLink",
+  "description": "FMCG distributor to auto-driver logistics marketplace connecting distributors, drivers, shopkeepers, and admins",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
